@@ -104,7 +104,11 @@ a{
         flex-direction: column;
     }
     .dish-input{
-        width: 25rem;
+        width: 15rem;
+    }
+    .pop-up{
+        width: 10rem;
+        
     }
 }
 
